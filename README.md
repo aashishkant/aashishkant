@@ -2,7 +2,6 @@
 
 ## About Me 🌟
 - **Name:** Ashish Kant
-- **Pronouns:** He/Him
 - **Location:** Unraveling mysteries from the heart of India 🇮🇳
 - **Interests:** Navigating the nexus of technology and philosophy, harmonizing melodies from diverse musical dimensions, and exploring the cosmos' enigmatic depths 🌌
 - **Currently Learning:** Diving deeper into the AI abyss, mastering the art of machine learning sorcery, and treading the ethical tightrope of hacking and cybersecurity.
