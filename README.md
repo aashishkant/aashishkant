@@ -1,16 +1,15 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aashishkant/aashishkant/main/grok_image_7ecso0.jpg" alt="Aashish Kant Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 255, 204, 0.3);"/>
   <h1>
     <a href="https://aashishkant.netlify.app">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Aashish+Kant;Code+Wizard+%7C+AI+Enthusiast" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Aashish+Kant;AI+Innovator+%7C+Guitarist+%7C+Explorer" alt="Typing SVG"/>
     </a>
   </h1>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashishkant&theme=merko&hide_border=true&show_icons=true&bg_color=1a1a1a&text_color=ffffff&icon_color=00ffcc&title_color=00ffcc" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=merko&hide_border=true&background=1a1a1a&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&theme=merko&hide_border=true&layout=compact&bg_color=1a1a1a&text_color=ffffff&title_color=00ffcc" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aashishkant&theme=dracula&hide_border=true&show_icons=true&bg_color=1E3A8A&text_color=ffffff&icon_color=3B82F6&title_color=3B82F6" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=dracula&hide_border=true&background=1E3A8A&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&theme=dracula&hide_border=true&layout=compact&bg_color=1E3A8A&text_color=ffffff&title_color=3B82F6" alt="Top Languages"/>
 </div>
 
 ## 🚀 About Me
@@ -58,6 +57,6 @@ A lightweight SQL engine built from scratch in Python. It runs core SQL queries 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashishkant&style=flat-square&color=00ffcc" alt="Profile Views"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=radical&no-frame=true&margin-w=15" alt="Trophies"/>
+  <img src="https://komarev.com/ghpvc/?username=aashishkant&style=flat-square&color=3B82F6" alt="Profile Views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=dracula&no-frame=true&margin-w=15" alt="Trophies"/>
 </div>
