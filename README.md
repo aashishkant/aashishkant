@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aashishkant/aashishkant/main/images/banner.png" alt="Aashish Kant Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 255, 204, 0.3);"/>
+  <img src="https://raw.githubusercontent.com/aashishkant/aashishkant/main/grok_image_7ecso0.jpg" alt="Aashish Kant Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 255, 204, 0.3);"/>
   <h1>
     <a href="https://aashishkant.netlify.app">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Aashish+Kant!;Code+Wizard+%7C+AI+Enthusiast+%7C+Music+Lover" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Aashish+Kant;Code+Wizard+%7C+AI+Enthusiast" alt="Typing SVG"/>
     </a>
   </h1>
 </div>
@@ -15,21 +15,21 @@
 
 ## 🚀 About Me
 - **Name**: Aashish Kant
-- **Location**: Splitting time between India 🇮🇳 and Nepal 🇳🇵
-- **Interests**: Coding AI & quantum solutions, pondering philosophy, and jamming to ghazals and metal 🎸
-- **Learning**: Deep into AI, machine learning, quantum computing, and cybersecurity ethics
-- **Collaboration**: Keen to work on AI-driven apps, web projects, or quantum experiments
-- **Fun Fact**: I speak 5 languages, each opening new worlds! 🌍
+- **Location**: India 🇮🇳 & Nepal 🇳🇵
+- **Interests**: Coding AI, quantum tech, and cybersecurity; pondering philosophy; jamming to ghazals and metal; motorcycle adventures 🎸
+- **Learning**: AI, machine learning, quantum computing, cybersecurity ethics
+- **Collaboration**: Excited for AI apps, web projects, or quantum experiments
+- **Fun Fact**: I speak 5 languages and love exploring misty mountain roads! 🌍
 - **Contact**: [ashishkant7972@gmail.com](mailto:ashishkant7972@gmail.com)
 - **Connect**:
   - [🌐 Portfolio](https://aashishkant.netlify.app)
   - [💼 LinkedIn](https://www.linkedin.com/in/aashish-kant-b24537143)
-  - [🎨 Earc Profile](https://earc.app/aashishkant) *(Update with your actual Earc link)*
+  - [🎨 Earc Profile](https://earc.app/aashishkant) *(Update with actual Earc link)*
 
 ## 🌌 My Journey
-- **Background**: Computer science geek passionate about creative tech solutions
-- **Experience**: Built web apps in internships, crafted AI models, and explored quantum computing
-- **Education**: B.Sc. in Computer Science at Kalinga University, chasing the latest tech trends
+- **Background**: Computer science nerd passionate about innovative code
+- **Experience**: Built web apps in internships, crafted AI models, explored quantum computing
+- **Education**: B.Sc. in Computer Science at Kalinga University, diving into cutting-edge tech
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -42,13 +42,14 @@
 
 ## 💻 Featured Project
 ### Mini SQL Engine 🗃️
-A lightweight SQL engine built from scratch in Python. It powers core SQL queries (SELECT, INSERT, UPDATE, DELETE) with custom parsing and optimized data storage. A compact database system!  
+A lightweight SQL engine built from scratch in Python. It runs core SQL queries (SELECT, INSERT, UPDATE, DELETE) with custom parsing and optimized storage. A mini database powerhouse!  
 **Tech**: Python, Custom Parsing, Data Structures  
 **[Check it Out](https://github.com/aashishkant/Mini-sql-engine)**
 
 ## 🎨 Beyond Code
-- **Philosophy**: Inspired by Socrates, Buddha, and Kabir Das, always exploring life’s big questions
-- **Music**: From soulful ghazals to heavy metal, I vibe with it all and play the guitar to unwind
+- **Philosophy**: Inspired by Socrates, Buddha, Kabir Das; always exploring life’s big questions
+- **Music**: From ghazals to heavy metal, I vibe with all and play the guitar to unwind
+- **Adventures**: Love riding through misty mountains on my motorcycle!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aashish-kant-b24537143"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -58,4 +59,5 @@ A lightweight SQL engine built from scratch in Python. It powers core SQL querie
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aashishkant&style=flat-square&color=00ffcc" alt="Profile Views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=radical&no-frame=true&margin-w=15" alt="Trophies"/>
 </div>
