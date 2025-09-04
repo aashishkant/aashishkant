@@ -1,37 +1,52 @@
-# 🚀 Unleashing Creativity: Meet Ashish Kant 🎨
+<div align="center">
+  <img src="https://via.placeholder.com/1200x300/1a1a1a/00ffcc?text=Aashish+Kant+-+Code+Wizard" alt="Banner" width="100%"/>
+  <h1>Hey, I'm Aashish Kant! 👨‍💻</h1>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aashishkant&theme=radical&hide_border=true&show_icons=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&theme=radical&hide_border=true&layout=compact" alt="Top Languages"/>
+</div>
 
 ## About Me 🌟
-- **Name:** Ashish Kant
-- **Location:** Unraveling mysteries from the heart of India 🇮🇳
-- **Interests:** Navigating the nexus of technology and philosophy, harmonizing melodies from diverse musical dimensions, and exploring the cosmos' enigmatic depths 🌌
-- **Currently Learning:** Diving deeper into the AI abyss, mastering the art of machine learning sorcery, and treading the ethical tightrope of hacking and cybersecurity.
-- **Looking to Collaborate On:** Conjuring visionary projects fusing creativity with technology, be it crafting AI symphonies, architecting web marvels, or painting the digital canvas with innovation.
-- **Fun Fact:** A linguistic chameleon, fluent in five tongues, each a portal to a kaleidoscope of culture and expression 🎭
-- **How to Reach Me:** Transmit your thoughts via ashishkant7972@gmail.com or traverse the professional cosmos on [LinkedIn](https://www.linkedin.com/in/ashish-kant-b24537143).
+- **Name**: Aashish Kant
+- **Location**: Splitting time between India 🇮🇳 and Nepal 🇳🇵
+- **Interests**: Blending tech with philosophy, rocking out to music (ghazals to metal), and unraveling cosmic mysteries 🌌
+- **Learning**: Mastering AI, machine learning, quantum computing, and cybersecurity ethics
+- **Collaboration**: Excited to build creative projects like AI tools, web apps, or quantum-inspired solutions
+- **Fun Fact**: I speak five languages, each unlocking a new world of ideas! 🗣️
+- **Contact**: Reach me at [ashishkant7972@gmail.com](mailto:ashishkant7972@gmail.com)
+- **Profiles**: 
+  - [LinkedIn](https://www.linkedin.com/in/aashish-kant-b24537143)
+  - [Portfolio](https://aashishkant.netlify.app)
+  - [Earc Profile](https://earc.app/aashishkant) *(Update with your actual Earc profile link if available)*
 
-## Career Odyssey 🌌
-- **Background:** Forged in the fires of computer science, I wield a quiver of creativity, unleashing innovation with every arrow of code.
-- **Experience:** From web development duels in internships to AI poetry summoning, I've honed my skills in the crucible of hands-on experience.
-- **Education:** Embarking on a quest for knowledge with a Bachelor of Science in Computer Science, seeking the holy grail of cutting-edge technologies.
+## My Journey 🚀
+- **Background**: Computer science enthusiast with a passion for crafting innovative code
+- **Experience**: Built web apps during internships, developed AI solutions, and explored quantum computing
+- **Education**: Pursuing a B.Sc. in Computer Science at Kalinga University, diving into cutting-edge tech
 
-## Projects Portfolio 🎨
-### Dream 11 AI Predictor 🏏
-- *Description:* Conjuring predictive potions with the magic of machine learning, foretelling optimal team compositions and outcomes in the fantasy sports arena.
-- *Tech Sorcery:* Python incantations, Machine Learning wizardry, Data Analysis alchemy
+## Skills 🛠️
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000?style=flat-square&logo=letsencrypt&logoColor=white)
+![Quantum Computing](https://img.shields.io/badge/Quantum%20Computing-00A1D6?style=flat-square&logo=ibm&logoColor=white)
 
-### Mirza Ghalib Poetry Enchanter 📜
-- *Description:* Transcending time, channeling the essence of the legendary poet with AI sorcery, weaving verses in the ethereal style of Mirza Ghalib.
-- *Tech Spells:* Natural Language Processing wizardry, Recurrent Neural Network enchantments
+## Featured Project 💻
+### Mini SQL Engine 🗃️
+A lightweight SQL engine I built from scratch in Python. It handles core SQL queries (SELECT, INSERT, UPDATE, DELETE) with custom parsing and optimized data storage. Think of it as a mini database powerhouse!  
+**Tech Used**: Python, custom parsing, data structures  
+**[View Project](https://github.com/aashishkant/Mini-sql-engine)**
 
-### Flask Chat App Alchemy 💬
-- *Description:* Breathing life into real-time communication, weaving a tapestry of connectivity with a Flask-based chat kingdom, embellished with encryption and multimedia spells.
-- *Tech Potions:* Flask enchantments, HTML/CSS incantations, JavaScript wizardry
+## Beyond Code 🎸
+- **Philosophy**: Inspired by Socrates, Buddha, and Kabir Das, always exploring life’s big questions
+- **Music**: From soulful ghazals to heavy metal, I love it all. I also play the guitar to unwind!
 
-## Interstellar Interests 🌠
-### Philosophy Odyssey 📚
-- *Favorites:* Socrates, Epictetus, Marcus Aurelius, Kabir Das, Buddha
-- *Quest:* Pondering timeless conundrums and philosophic quandaries, traversing the corridors of ancient wisdom and modern enlightenment.
-
-### Harmonic Musings 🎶
-- *Eclectic Symphony:* From the soul-stirring melodies of ghazals to the thunderous roar of rock and metal, I orchestrate a symphony of sonic diversity.
-- *Instrument Mastery:* Wielding the guitar like a maestro, exploring the labyrinthine depths of musical expression.
+<div align="center">
+  <a href="https://www.linkedin.com/in/aashish-kant-b24537143"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://aashishkant.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat-square&logo=firefox&logoColor=white"/></a>
+  <a href="https://earc.app/aashishkant"><img src="https://img.shields.io/badge/Earc-00C4B4?style=flat-square&logo=web&logoColor=white"/></a>
+</div>
