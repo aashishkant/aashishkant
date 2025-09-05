@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Aashish+Kant;AI+Engineer+%7C+Philosopher;Building+Tomorrow's+Intelligence;Code+%7C+Consciousness+%7C+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Aashish+Kant;AI+Engineer+%7C+;Building+Tomorrow's+Intelligence;Code+%7C+Consciousness+%7C+Innovation" alt="Typing SVG" />
   </h1>
 </div>
 
