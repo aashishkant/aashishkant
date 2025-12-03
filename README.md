@@ -1,182 +1,138 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Aashish+Kant+%F0%9F%91%8B;Software+Engineer;Automation+Enthusiast" alt="Typing SVG" />
-  </h1>
-</div>
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  🇳🇵 Based in Nepal  |             ║
-║  🎯 Building reliable systems that scale                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# 👋 Hey, I'm Aashish
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&labelColor=000000&color=0D1117&link=https://aashishkant.netlify.app)](https://aashishkant.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kant-b24537143)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishkant7972@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashishkant)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Nepal;Building+Reliable+Systems;Automation+%7C+Testing+%7C+Development" alt="Typing SVG" />
 
-</div>
-
----
-
-### 🎯 About
-
-Software engineer passionate about **automation**, **testing**, and building systems that actually work. I believe good software isn't just about features—it's about reliability, performance, and user experience.
-
-Currently crafting robust applications and test frameworks. When I'm offline, you'll find me exploring philosophy or keeping rhythm behind a drum kit.
-
----
-
-### 🛠️ Technology Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/cypress/cypress-icon.svg" width="48" height="48" alt="Cypress" />
-      <br>Cypress
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
-      <br>Selenium
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
-
----
-
-### 💼 Featured Projects
-
-<details open>
-<summary><b>🔍 Mini SQL Engine</b> - Custom Database from Scratch</summary>
 <br>
 
-Built a fully functional SQL query engine in Python without any external database libraries. Processes complex queries including JOINs, aggregations, and WHERE clauses.
+[![Portfolio](https://img.shields.io/badge/🌐_Website-FF6B6B?style=flat-square&logoColor=white)](https://aashishkant.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kant-b24537143)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashishkant7972@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aashishkant)
 
-**Tech:** Python • Data Structures • Algorithms  
-**Why it matters:** Deep dive into database internals, query optimization, and compiler design
+![Profile Views](https://komarev.com/ghpvc/?username=aashishkant&color=36BCF7&style=flat-square)
 
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/aashishkant/Mini-sql-engine)
+</div>
 
-</details>
-
-<details>
-<summary><b>📈 Real-Time Trading Platform</b> - Financial Intelligence Dashboard</summary>
 <br>
 
-Live trading dashboard with real-time market data integration, sentiment analysis from news sources, and interactive visualizations for portfolio management.
+## 🚀 What I Do
 
-**Tech:** Python • Streamlit • Machine Learning • API Integration  
-**Challenge:** Processing live data while maintaining accuracy during high market volatility
+I build software that works and doesn't break when users get creative. Passionate about **automation**, **testing**, and making systems reliable at scale.
 
-**Features:**
-- Real-time stock tracking and analysis
-- Sentiment analysis engine
-- Interactive portfolio dashboards
-- Live news integration
+When I'm not coding, I'm reading philosophy or playing drums—both teach you about rhythm and timing.
 
-</details>
+<br>
 
----
-
-### 📊 GitHub Activity
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aashishkant&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Testing & Automation
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
+
+<br>
+
+## 💡 Featured Work
+
+### 🔧 [Mini SQL Engine](https://github.com/aashishkant/Mini-sql-engine)
+Built a SQL database from scratch—no libraries, just algorithms and data structures.
+
+**Handles:** Complex queries, JOINs, aggregations, WHERE clauses  
+**Why:** Understanding database internals makes you write better code
+
+<br>
+
+### 📈 Real-Time Trading Platform
+Live market dashboard with sentiment analysis and real-time data feeds.
+
+**Stack:** Python • Streamlit • ML • API Integration  
+**Challenge:** Staying accurate when markets move every second
+
+<br>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=aashishkant&theme=react&hide_border=true&background=1F222E&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=36BCF7&text_color=FFFFFF" alt="Top Languages"/>
+
 </div>
 
----
+<br>
 
-### 🎓 Education & Learning
+## 🎓 Background
 
-**B.Sc. Computer Science** | Kalinga University (2022-2025) • GPA: 7.8
+**B.Sc. Computer Science** • Kalinga University (2022-2025) • GPA: 7.8
 
 **Certifications:**
-- 🎓 CS50x: Introduction to Computer Science - Harvard University
-- 🏆 Introduction to Software Testing - TestGrid University
+- CS50x: Introduction to Computer Science - Harvard University (2022)
+- Introduction to Software Testing - TestGrid University (2025)
 
-**Research:**
-- 📝 *Quantum Computing: Pioneering New Frontiers* - Published in Innovation and Integrative Research Center Journal (2025)
+**Published Research:**
+- *Quantum Computing: Pioneering New Frontiers* - Innovation and Integrative Research Center Journal (April 2025)
 
----
+<br>
 
-### 💡 Philosophy
+## 💭 Philosophy
 
 > *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."* — Aristotle
 
-I approach software development with principles borrowed from ancient philosophy: focus on what you can control, automate the repetitive, and continuously improve. Every bug caught is a lesson learned.
+Good software comes from good habits: clean code, thorough testing, and continuous improvement.
 
----
+<br>
 
-### 🎯 Current Focus
+## 🎯 Currently
 
-```python
-current_work = {
-    "role": "Software Engineer",
-    "building": ["Test automation frameworks", "Reliable systems", "CI/CD pipelines"],
-    "learning": ["Advanced testing patterns", "System design", "DevOps practices"],
-    "interests": ["Stoic philosophy", "Drumming", "Open source"]
-}
+```js
+const current = {
+  learning: ["Advanced testing patterns", "System design", "DevOps"],
+  building: ["Test automation frameworks", "Reliable systems"],
+  interests: ["Stoic philosophy 📚", "Drumming 🥁", "Open source 🌟"]
+};
 ```
 
----
+<br>
 
-### 🤝 Let's Connect
+## 📬 Get In Touch
 
-I'm always interested in discussing software architecture, automation strategies, or how ancient wisdom applies to modern engineering. Open to collaborations on interesting projects.
+Interested in collaborating or discussing software, automation, or how philosophy applies to engineering?
 
 <div align="center">
 
-[![GitHub Followers](https://img.shields.io/github/followers/aashishkant?style=social)](https://github.com/aashishkant)
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kant-b24537143)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kant-b24537143)
 
 **📧 ashishkant7972@gmail.com**
 
+![GitHub followers](https://img.shields.io/github/followers/aashishkant?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/aashishkant?label=Stars&style=social)
+
 </div>
 
----
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
 </div>
