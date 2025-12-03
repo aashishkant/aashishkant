@@ -1,32 +1,31 @@
 <div align="center">
 
-# 👋 Hey, I'm Aashish
+# Hey, I'm Aashish
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+from+Nepal;Building+things+that+don't+break;Automation+%7C+Testing+%7C+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+from+Nepal;Building+systems+that+don't+break;Automation+%7C+Testing+%7C+Reliability" alt="Typing SVG" />
 
 <br>
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=flat&logo=googlechrome&logoColor=white)](https://aashishkant.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=googlechrome&logoColor=white)](https://aashishkant.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kant-b24537143)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashishkant7972@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aashishkant)
 
-<!-- subtle visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=aashishkant&color=36BCF7&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=aashishkant&color=36BCF7&style=flat" />
 
 </div>
 
 <br>
 
-## 🚀 What I Do
-I build reliable, fast, and user-proof systems.  
-Obsessed with **automation**, **testing at scale**, and writing code that survives real users.
+## What I Do
+I build software that survives real users.  
+Obsessed with **automation**, **bulletproof testing**, and systems that scale without exploding.
 
-When I’m not coding → reading Stoic philosophy or hitting drums (both are about rhythm).
+Off-duty: Stoic philosophy & drums — both are about timing.
 
 <br>
 
-## 🛠️ Tools & Stack
+## Tech Stack
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,48 +46,55 @@ When I’m not coding → reading Stoic philosophy or hitting drums (both are ab
 
 <br>
 
-## 💡 Things I'm Proud Of
+## Projects That Matter
 
-### Mini SQL Engine from Scratch  
+### Mini SQL Engine (From Scratch)
 → [github.com/aashishkant/Mini-sql-engine](https://github.com/aashishkant/Mini-sql-engine)  
-Built a full-featured SQL engine in pure Python — JOINs, aggregations, indexes, query optimizer… zero external DB libs.  
-Because understanding the magic under the hood makes you a better engineer.
+Full SQL parser + executor in pure Python. JOINs, aggregations, indexes — no libraries allowed.  
+Because knowing how databases *really* work changes everything.
 
-### Real-Time Trading Dashboard  
+**Stack:** Python • Data Structures • Algorithms  
+**Challenge:** Making complex queries fast and correct
+
+### Real-Time Trading Dashboard
 Live market data + sentiment analysis + sub-second updates  
-Stack: Python • Streamlit • WebSockets • ML
+**Stack:** Python • Streamlit • WebSockets • ML • API Integration  
+**Challenge:** Staying accurate when markets move every millisecond
 
 <br>
 
-## 📊 GitHub Vibes
+## GitHub Stats (Actually Working & Cool)
+
 <div align="center">
 
-<!-- Cool trophy-style stats: Feels like achievements, not just numbers -->
-<img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+<!-- Trophy badges — gamified & gorgeous -->
+<img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 
-<!-- Subtle streak badge (text-based for reliability, styled cool) -->
-<img src="https://img.shields.io/badge/Streak-🔥%20On%20Fire%20(30%2B%20days)-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Streak Badge" />
+<br>
 
-<!-- Quick stats badges for the essentials (these always work via shields.io) -->
-<img src="https://img.shields.io/github/stars/aashishkant?color=36BCF7&label=Stars&logo=github" alt="Stars" />
-<img src="https://img.shields.io/github/forks/aashishkant?color=36BCF7&label=Forks&logo=github" alt="Forks" />
-<img src="https://img.shields.io/github/commit-activity/w/aashishkant?color=36BCF7&label=Commits" alt="Commits" />
+<!-- Clean, minimal stats cards — these render perfectly on GitHub -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" />
 
 </div>
 
 <br>
 
-## 💭 Favorite Quote
+## Philosophy
 > “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” — Aristotle
 
-Clean code and rigorous testing aren’t one-time efforts — they’re daily practice.
+Good software isn’t accidental. It’s built through discipline, testing, and iteration.
 
 <br>
 
-## 🎯 Right Now
+## Right Now
 ```js
 const now = {
   learning: ["System Design", "Advanced Testing", "DevOps"],
-  building: "Scalable test automation frameworks",
-  vibing:  ["Stoicism 📖", "Drums 🥁", "Open-source 🌟"]
+  building: "Enterprise-grade test automation frameworks",
+  vibing: ["Stoicism", "Drums", "Open Source"]
 };
