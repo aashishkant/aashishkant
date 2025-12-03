@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Aashish
+# Hey, I'm Aashish 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+from+Nepal;Automation+%7C+Testing+%7C+Reliable+Systems;Building+things+that+just+work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+from+Nepal;Automation+%7C+Testing+%7C+Systems;Building+things+that+don't+break" alt="Typing SVG" />
 
 <br>
 
@@ -17,11 +17,9 @@
 
 <br>
 
-## What I Build
-Reliable systems that don’t break when users get creative.  
-Automation • Testing • Performance • Real-time everything.
-
-Off the clock: Stoicism and drums — both are about rhythm and discipline.
+## What I Do
+Reliable systems • Automation • Testing at scale • Real-time everything  
+When not coding → Stoicism & drums (both are about rhythm)
 
 <br>
 
@@ -48,10 +46,9 @@ Off the clock: Stoicism and drums — both are about rhythm and discipline.
 
 ## Featured Projects
 
-### Mini SQL Engine (Pure Python)
+### Mini SQL Engine (From Scratch)
 → [github.com/aashishkant/Mini-sql-engine](https://github.com/aashishkant/Mini-sql-engine)  
-Built a full SQL engine from scratch — parser, executor, JOINs, aggregations, indexes.  
-No SQLite. No shortcuts. Just algorithms.
+Full SQL parser + executor in pure Python — JOINs, indexes, aggregations, optimizer.
 
 ### Real-Time Trading Dashboard
 Live market data + sentiment analysis + sub-second updates  
@@ -64,18 +61,19 @@ Live market data + sentiment analysis + sub-second updates
 
 <div align="center">
 
-<!-- Trophy row — looks exactly like your screenshot -->
-<img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=10&margin-h=10&row=1&column=7" />
+<!-- Exact trophy style you love (chalk theme) -->
+<img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=chalk&no-frame=false&no-bg=false&margin-w=10&row=1" alt="GitHub Trophies" />
 
 <br><br>
 
-<!-- Stats + Streak + Top Langs — clean & matching your dark vibe -->
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" />
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=dracula&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
+<!-- Stats + Streak (Dracula theme – perfect dark mode) -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=dracula&hide_border=true" />
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=dracula&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=dracula&hide_border=true" />
 
 </div>
 
@@ -84,14 +82,14 @@ Live market data + sentiment analysis + sub-second updates
 ## Philosophy
 > “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” — Aristotle
 
-Good software isn’t accidental. It’s built through discipline, testing, and iteration.
+Good software is built through discipline, testing, and daily practice.
 
 <br>
 
 ## Right Now
 ```js
-const status = {
+const now = {
   learning: ["System Design", "Advanced Testing", "DevOps"],
-  building: "Enterprise-grade automation frameworks",
-  vibes:    ["Stoicism", "Drums", "Open Source"]
+  building: "Enterprise-grade test automation",
+  vibes:   ["Stoicism", "Drums", "Open Source"]
 };
