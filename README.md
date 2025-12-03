@@ -2,48 +2,44 @@
 
 # 👋 Hey, I'm Aashish
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer+from+Nepal;Building+Reliable+Systems;Automation+%7C+Testing+%7C+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+from+Nepal;Building+things+that+don't+break;Automation+%7C+Testing+%7C+Systems" alt="Typing SVG" />
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Website-FF6B6B?style=flat-square&logoColor=white)](https://aashishkant.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kant-b24537143)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashishkant7972@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aashishkant)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=flat&logo=googlechrome&logoColor=white)](https://aashishkant.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kant-b24537143)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashishkant7972@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/aashishkant)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aashishkant&color=36BCF7&style=flat-square)
+<!-- subtle visitor counter -->
+<img src="https://komarev.com/ghpvc/?username=aashishkant&color=36BCF7&style=flat" alt="Profile views" />
 
 </div>
 
 <br>
 
 ## 🚀 What I Do
+I build reliable, fast, and user-proof systems.  
+Obsessed with **automation**, **testing at scale**, and writing code that survives real users.
 
-I build software that works and doesn't break when users get creative. Passionate about **automation**, **testing**, and making systems reliable at scale.
-
-When I'm not coding, I'm reading philosophy or playing drums—both teach you about rhythm and timing.
+When I’m not coding → reading Stoic philosophy or hitting drums (both are about rhythm).
 
 <br>
 
-## 🛠️ Tech Stack
-
+## 🛠️ Tools & Stack
 <div align="center">
 
-### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Testing & Automation
+<br>
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Databases & Tools
+<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -51,88 +47,48 @@ When I'm not coding, I'm reading philosophy or playing drums—both teach you ab
 
 <br>
 
-## 💡 Featured Work
+## 💡 Things I'm Proud Of
 
-### 🔧 [Mini SQL Engine](https://github.com/aashishkant/Mini-sql-engine)
-Built a SQL database from scratch—no libraries, just algorithms and data structures.
+### Mini SQL Engine from Scratch  
+→ [github.com/aashishkant/Mini-sql-engine](https://github.com/aashishkant/Mini-sql-engine)  
+Built a full-featured SQL engine in pure Python — JOINs, aggregations, indexes, query optimizer… zero external DB libs.  
+Because understanding the magic under the hood makes you a better engineer.
 
-**Handles:** Complex queries, JOINs, aggregations, WHERE clauses  
-**Why:** Understanding database internals makes you write better code
-
-<br>
-
-### 📈 Real-Time Trading Platform
-Live market dashboard with sentiment analysis and real-time data feeds.
-
-**Stack:** Python • Streamlit • ML • API Integration  
-**Challenge:** Staying accurate when markets move every second
+### Real-Time Trading Dashboard  
+Live market data + sentiment analysis + sub-second updates  
+Stack: Python • Streamlit • WebSockets • ML
 
 <br>
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Vibes
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+<!-- Cool trophy-style stats: Feels like achievements, not just numbers -->
+<img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=aashishkant&theme=react&hide_border=true&background=1F222E&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
+<!-- Subtle streak badge (text-based for reliability, styled cool) -->
+<img src="https://img.shields.io/badge/Streak-🔥%20On%20Fire%20(30%2B%20days)-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Streak Badge" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=36BCF7&text_color=FFFFFF" alt="Top Languages"/>
+<!-- Quick stats badges for the essentials (these always work via shields.io) -->
+<img src="https://img.shields.io/github/stars/aashishkant?color=36BCF7&label=Stars&logo=github" alt="Stars" />
+<img src="https://img.shields.io/github/forks/aashishkant?color=36BCF7&label=Forks&logo=github" alt="Forks" />
+<img src="https://img.shields.io/github/commit-activity/w/aashishkant?color=36BCF7&label=Commits" alt="Commits" />
 
 </div>
 
 <br>
 
-## 🎓 Background
+## 💭 Favorite Quote
+> “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” — Aristotle
 
-**B.Sc. Computer Science** • Kalinga University (2022-2025) • GPA: 7.8
-
-**Certifications:**
-- CS50x: Introduction to Computer Science - Harvard University (2022)
-- Introduction to Software Testing - TestGrid University (2025)
-
-**Published Research:**
-- *Quantum Computing: Pioneering New Frontiers* - Innovation and Integrative Research Center Journal (April 2025)
+Clean code and rigorous testing aren’t one-time efforts — they’re daily practice.
 
 <br>
 
-## 💭 Philosophy
-
-> *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."* — Aristotle
-
-Good software comes from good habits: clean code, thorough testing, and continuous improvement.
-
-<br>
-
-## 🎯 Currently
-
+## 🎯 Right Now
 ```js
-const current = {
-  learning: ["Advanced testing patterns", "System design", "DevOps"],
-  building: ["Test automation frameworks", "Reliable systems"],
-  interests: ["Stoic philosophy 📚", "Drumming 🥁", "Open source 🌟"]
+const now = {
+  learning: ["System Design", "Advanced Testing", "DevOps"],
+  building: "Scalable test automation frameworks",
+  vibing:  ["Stoicism 📖", "Drums 🥁", "Open-source 🌟"]
 };
-```
-
-<br>
-
-## 📬 Get In Touch
-
-Interested in collaborating or discussing software, automation, or how philosophy applies to engineering?
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kant-b24537143)
-
-**📧 ashishkant7972@gmail.com**
-
-![GitHub followers](https://img.shields.io/github/followers/aashishkant?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/aashishkant?label=Stars&style=social)
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
-</div>
