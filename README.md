@@ -2,7 +2,7 @@
 
 # Hey, I'm Aashish
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+from+Nepal;Building+systems+that+don't+break;Automation+%7C+Testing+%7C+Reliability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer+from+Nepal;Automation+%7C+Testing+%7C+Reliable+Systems;Building+things+that+just+work" alt="Typing SVG" />
 
 <br>
 
@@ -17,11 +17,11 @@
 
 <br>
 
-## What I Do
-I build software that survives real users.  
-Obsessed with **automation**, **bulletproof testing**, and systems that scale without exploding.
+## What I Build
+Reliable systems that don’t break when users get creative.  
+Automation • Testing • Performance • Real-time everything.
 
-Off-duty: Stoic philosophy & drums — both are about timing.
+Off the clock: Stoicism and drums — both are about rhythm and discipline.
 
 <br>
 
@@ -46,15 +46,12 @@ Off-duty: Stoic philosophy & drums — both are about timing.
 
 <br>
 
-## Projects That Matter
+## Featured Projects
 
-### Mini SQL Engine (From Scratch)
+### Mini SQL Engine (Pure Python)
 → [github.com/aashishkant/Mini-sql-engine](https://github.com/aashishkant/Mini-sql-engine)  
-Full SQL parser + executor in pure Python. JOINs, aggregations, indexes — no libraries allowed.  
-Because knowing how databases *really* work changes everything.
-
-**Stack:** Python • Data Structures • Algorithms  
-**Challenge:** Making complex queries fast and correct
+Built a full SQL engine from scratch — parser, executor, JOINs, aggregations, indexes.  
+No SQLite. No shortcuts. Just algorithms.
 
 ### Real-Time Trading Dashboard
 Live market data + sentiment analysis + sub-second updates  
@@ -63,22 +60,22 @@ Live market data + sentiment analysis + sub-second updates
 
 <br>
 
-## GitHub Stats (Actually Working & Cool)
+## GitHub Trophies & Stats
 
 <div align="center">
 
-<!-- Trophy badges — gamified & gorgeous -->
-<img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<!-- Trophy row — looks exactly like your screenshot -->
+<img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=10&margin-h=10&row=1&column=7" />
+
+<br><br>
+
+<!-- Stats + Streak + Top Langs — clean & matching your dark vibe -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" />
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=dracula&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
 
 <br>
 
-<!-- Clean, minimal stats cards — these render perfectly on GitHub -->
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" />
 
 </div>
 
@@ -93,8 +90,8 @@ Good software isn’t accidental. It’s built through discipline, testing, and 
 
 ## Right Now
 ```js
-const now = {
+const status = {
   learning: ["System Design", "Advanced Testing", "DevOps"],
-  building: "Enterprise-grade test automation frameworks",
-  vibing: ["Stoicism", "Drums", "Open Source"]
+  building: "Enterprise-grade automation frameworks",
+  vibes:    ["Stoicism", "Drums", "Open Source"]
 };
