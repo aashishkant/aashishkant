@@ -61,8 +61,9 @@ Live market data + sentiment analysis + sub-second updates
 
 <div align="center">
 
-<!-- Exact trophy style you love (chalk theme) -->
-<img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=chalk&no-frame=false&no-bg=false&margin-w=10&row=1" alt="GitHub Trophies" />
+
+<!-- Just replace the trophy line with this one for the exact dark/red look -->
+<img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=gruvbox&no-frame=false&no-bg=false&margin-w=10&row=1&column=7" />
 
 <br><br>
 
