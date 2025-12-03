@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Aashish+Kant;AI+Engineer+%7C+;Building+Tomorrow's+Intelligence;Code+%7C+Consciousness+%7C+Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Aashish+Kant;QA+Engineer+%7C+Software+Developer;Building+Quality+Software;Testing+%7C+Automation+%7C+Innovation" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -18,32 +18,36 @@
   
 </div>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 ```typescript
-const aashish: Developer = {
+const aashish: QAEngineer = {
   name: "Aashish Kant",
-  location: ["🇮🇳 India", "🇳🇵 Nepal"],
-  role: "AI Engineer & Full-Stack Developer",
+  location: "🇳🇵 Nepal",
+  role: "Quality Assurance Engineer & Software Developer",
   education: "B.Sc. Computer Science (2025)",
-  experience: "3+ Years in Development",
   
   currentFocus: [
-    "🤖 Artificial Intelligence & Machine Learning",
-    "🔬 Quantum Computing Research", 
-    "🧠 Neural Networks & Deep Learning",
-    "🌐 Full-Stack Web Development"
+    "🧪 Quality Assurance & Test Automation",
+    "🤖 Automated Testing with Cypress & Selenium",
+    "🔧 API Testing & Validation",
+    "💻 Full-Stack Development"
   ],
   
-  philosophy: {
-    "🏛️ Ancient Wisdom": ["Cynicism", "Plato's Theory of Forms", "Advaita Vedanta"],
-    "🧘 Eastern Philosophy": ["Buddhism", "Shankara's Non-Dualism"],
-    "🔍 Modern Inquiry": ["Digital Age Mysteries", "Consciousness Studies"]
+  workingAt: {
+    company: "Leapfrog Technology",
+    position: "Quality Assurance Trainee",
+    focus: "Ensuring software quality through comprehensive testing"
   },
   
-  hobbies: ["🥁 Drumming", "🏍️ Motorcycle Adventures", "📚 Philosophy", "🌄 Mountain Exploration"],
+  passion: [
+    "Writing clean, testable code",
+    "Automating repetitive tasks",
+    "Finding bugs before users do",
+    "Continuous learning and improvement"
+  ],
   
-  motto: "Bridging ancient wisdom with cutting-edge technology"
+  motto: "Quality is not an act, it is a habit"
 };
 ```
 
@@ -51,31 +55,31 @@ const aashish: Developer = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
+
+### Testing & QA
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ### Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -97,14 +101,10 @@ const aashish: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aashishkant&theme=react-dark&hide_border=true&area=true"/>
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
   
@@ -113,71 +113,83 @@ const aashish: Developer = {
 </div>
 
 ### 🔍 Mini SQL Engine
-**Building databases from first principles**
-- 🔧 **Tech Stack**: Python, Custom Parsing, Advanced Data Structures
-- 🎯 **Features**: Zero-dependency SQL query engine with JOIN operations and aggregate functions
-- 🧠 **Philosophy**: *"True understanding comes from building from scratch"* - Inspired by Plato's Theory of Forms
+**Custom database query engine built from scratch**
+- 🔧 **Tech Stack**: Python, Custom Parsing, Data Structures & Algorithms
+- 🎯 **Features**: Zero-dependency SQL query execution with JOIN operations and aggregate functions
+- 📈 **Impact**: Deep understanding of database internals and query optimization
+- ✅ **Testing**: Comprehensive test suite ensuring query accuracy and performance
 
-### 🎯 Resume Analyzer
-**AI-powered career intelligence system**
-- 🔧 **Tech Stack**: Python, NLP, Machine Learning, Flask
-- 🎯 **Features**: Intelligent resume scoring, keyword extraction, skill gap analysis
-- 🧠 **Philosophy**: *"Know thyself"* - Socratic wisdom applied to career development
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🌌 Philosophy Meets Code
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20only%20true%20wisdom%20is%20in%20knowing%20you%20know%20nothing&author=Socrates"/>
-</div>
-
-> *"In the intersection of ancient wisdom and modern technology, we find the keys to understanding both the universe and ourselves."*
-
-**🏛️ Philosophical Explorations:**
-- **Cynicism**: Stripping away digital complexity to find essential truths in code
-- **Plato's Theory of Forms**: Seeking the perfect algorithm behind imperfect implementations  
-- **Buddhist Philosophy**: Writing code with mindfulness and compassion for users
-- **Advaita Vedanta**: Understanding the non-dual nature of programmer and program
-- **Modern Mysteries**: Investigating consciousness, technology, and reality's hidden patterns
-
-**🥁 Rhythm & Code**: Finding the cosmic beat in algorithms, where every function call is a drum beat in the symphony of computation.
+### 📈 Fintech Trading Platform
+**Real-time financial trading and analysis system**
+- 🔧 **Tech Stack**: Python, Streamlit, API Integration, Machine Learning, NLP
+- 🎯 **Features**: 
+  - Real-time market data integration and stock tracking
+  - Sentiment analysis of market news and social media
+  - Interactive dashboards for portfolio management
+  - Live stock prices and financial data feeds
+- 🧪 **Quality Assurance**: Rigorous testing of API responses, data accuracy, and UI functionality
+- 📊 **Impact**: Comprehensive platform for informed trading decisions
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🎓 Professional Journey
+## 💼 Professional Experience
 
-**📍 Current Role**: Freelance AI Engineer & Full-Stack Developer (2022-Present)
-- 🌐 **Platforms**: Upwork, Freelance Networks
-- 🚀 **Achievements**: Built scalable web applications for international clients
-- 🔧 **Specialties**: React, Next.js, Node.js, Python automation
+**🔬 Quality Assurance Trainee** | Leapfrog Technology (Current)
+- Mastering QA methodologies and testing best practices
+- Automated testing with **Cypress** for end-to-end web application testing
+- Browser automation and test scripting with **Selenium**
+- API testing and validation using **Postman**
+- Test case design, bug reporting, and defect tracking
 
-**💼 Previous Experience**: Python Developer at Yashams IT Solutions (2023)
-- 🤖 **Focus**: Web scraping, automation, and scalable web applications
-- 🛠️ **Tools**: Python, Selenium, Laravel, Flask
-
-**🎓 Education**: B.Sc. Computer Science, Kalinga University (2021-2025)
-- 📊 **GPA**: 7.8/10
-- 🏆 **Certifications**: Harvard CS50x, Google Data Analytics Professional
+**💻 Python Developer Intern** | Yashams IT Solutions (Jun 2023 - Aug 2023)
+- Developed and tested web applications using Python and Flask
+- Performed debugging and quality assurance for application reliability
+- Collaborated on identifying and resolving software issues
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🤝 Let's Connect
+## 🎓 Education & Certifications
+
+**🎓 B.Sc. Computer Science** | Kalinga University (2022-2025)
+- GPA: 7.8/10
+
+**📜 Certifications**
+- CS50x: Introduction to Computer Science | Harvard University (2022)
+- Introduction to Software Testing - Level 1 | TestGrid University (2025)
+
+**📝 Publications**
+- *Quantum Computing: Pioneering New Frontiers with Transformative Applications* | Innovation and Integrative Research Center Journal (April 2025)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 🌟 What I Bring
+
+- 🧪 **Quality-First Mindset**: Committed to delivering bug-free, reliable software
+- 🤖 **Automation Enthusiast**: Passionate about making testing efficient and repeatable
+- 🔍 **Detail-Oriented**: Meticulous in finding edge cases and potential issues
+- 📚 **Continuous Learner**: Always exploring new testing frameworks and methodologies
+- 🤝 **Team Player**: Strong collaboration and communication skills
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 📫 Let's Connect
 
 <div align="center">
   
-  **"Building the future, one algorithm at a time"**
+  **"Ensuring quality, one test at a time"**
   
   [![GitHub followers](https://img.shields.io/github/followers/aashishkant?style=social)](https://github.com/aashishkant)
   [![GitHub stars](https://img.shields.io/github/stars/aashishkant?style=social)](https://github.com/aashishkant)
   
-  **Currently exploring**: The consciousness of artificial intelligence and the artificial intelligence of consciousness 🧘‍♂️💻
+  **Open to**: QA Engineering roles, Test Automation opportunities, and Software Development projects
   
 </div>
 
