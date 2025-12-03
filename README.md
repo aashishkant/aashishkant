@@ -66,9 +66,9 @@ Live market data + sentiment analysis + sub-second updates
 
 <br><br>
 
-<!-- Stats + FIXED Streak (stable alternative - pulls your real data: 401 contribs, 1-day streak, etc.) -->
+<!-- Stats + FIXED Streak (Vercel fork - 100% reliable, no downtime) -->
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=dracula&hide_border=true" />
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=dracula&hide_border=true&background=18191F&stroke=0A0E17&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
+<img height="180px" src="https://github-readme-streak-stats-eight.vercel.app/?user=aashishkant&theme=dracula&hide_border=true&background=18191F&stroke=0A0E17&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
 
 <br>
 
