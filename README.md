@@ -1,52 +1,29 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Aashish+Kant;Code+%7C+Drums+%7C+Philosophy;Breaking+Things+To+Build+Better" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Aashish+Kant" alt="Typing SVG" />
   </h1>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <p><em>Building things that work. Breaking things that don't.</em></p>
 </div>
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_My_Digital_Space-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://aashishkant.netlify.app)
-  [![LinkedIn](https://img.shields.io/badge/💼_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kant-b24537143)
-  [![Email](https://img.shields.io/badge/📧_Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishkant7972@gmail.com)
-  
-  <img src="https://komarev.com/ghpvc/?username=aashishkant&style=for-the-badge&color=00F5FF" alt="Profile Views"/>
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge)](https://aashishkant.netlify.app)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/aashish-kant-b24537143)
+  [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:ashishkant7972@gmail.com)
   
 </div>
 
 <br>
 
-## 🎭 The Short Version
+## 👋 Hey there
 
-I break software for a living (so users don't have to). Based in Nepal 🇳🇵, I spend my days hunting bugs, automating the boring stuff, and building things that actually work. When I'm not staring at code, I'm either behind a drum kit finding rhythm or lost in ancient philosophy books.
+I'm a software engineer from Nepal who loves automation and making things reliable. Currently at **Leapfrog Technology**, building systems that don't break when users get creative.
 
-**Current quest**: Making software bulletproof at Leapfrog Technology
+When I'm not debugging, you'll find me reading philosophy or playing drums. Turns out rhythm helps with code too.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<br>
 
-## 🧠 Philosophy Meets Code
-
-> *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."* - Aristotle
-
-The Stoics taught that we control only our actions, not outcomes. In software, that means:
-- Write clean code
-- Test relentlessly
-- Automate repetitively
-- Ship confidently
-
-The rest? Let it unfold.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 🎸 What I'm Jamming With
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -57,99 +34,69 @@ The rest? Let it unfold.
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+<br>
 
-## 🚀 Cool Stuff I've Built
+## 🚀 Projects
 
 ### 🔧 Mini SQL Engine
-**Built a database from scratch. No libraries. Just pure logic.**
+Built a SQL database from scratch in Python. No external libraries—just data structures and algorithms. Handles JOINs, aggregations, and complex queries.
 
-You know how databases magically process your queries? I wanted to know *how*. So I built one. It handles JOINs, aggregations, and complex queries—all in Python with zero dependencies.
+**Why?** Wanted to understand what happens under the hood when you run a query.
 
-*Why this matters*: Understanding the internals makes you write way better SQL and appreciate what's happening under the hood.
+### 💹 Trading Platform
+Real-time market dashboard with sentiment analysis. Pulls live data and news to help traders make better decisions.
 
----
+**The fun part:** Making it accurate when markets move every second.
 
-### 💹 Real-Time Trading Platform
-**Because making financial decisions shouldn't feel like gambling**
+<br>
 
-Built a live trading dashboard that pulls real-time market data, analyzes sentiment from news/social media, and helps traders make informed decisions. It's like having a research team in your browser.
-
-*The challenge*: Market data changes every second. Building something that stays accurate while handling that chaos taught me a lot about system reliability.
+## 📊 Stats
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+![](https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=radical&hide_border=true)
+
 </div>
 
-## 📊 GitHub Activity
+<br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=radical&hide_border=true"/>
-</div>
+## 💭 What I Believe
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=radical&hide_border=true"/>
-</div>
+> *"We are what we repeatedly do."* - Aristotle
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+- Ship working software
+- Automate repetitive stuff
+- Test like your users depend on it
+- Learn something new every day
 
-## 🥁 Beyond The Screen
+<br>
 
-**Drumming**: There's something meditative about hitting drums in perfect time. Plus, both coding and drumming need rhythm—knowing when to go hard and when to let things breathe.
+## 🎯 Currently
 
-**Philosophy**: I'm fascinated by Stoicism, Taoism, and how ancient wisdom applies to modern problems. Marcus Aurelius never dealt with API bugs, but his principles on control and acceptance? Pure gold for debugging sessions at 2 AM.
+- Hunting bugs at Leapfrog Technology
+- Building test automation frameworks
+- Reading Stoic philosophy
+- Keeping the rhythm alive 🥁
 
-**Automation Addiction**: If I do something more than twice, I automate it. Life's too short for repetitive tasks.
+<br>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+## 📬 Let's Connect
 
-## 🎯 What I'm About
-
-```python
-def my_philosophy():
-    while True:
-        learn_something_new()
-        build_with_intention()
-        test_like_users_depend_on_it()  # because they do
-        share_knowledge()
-        repeat()
-```
-
-I believe in:
-- **Shipping > Perfection** (but make it work first)
-- **Breaking things intentionally** (before users break them accidentally)
-- **Automating the boring** (so we can focus on the interesting)
-- **Code as craft** (not just as a job)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 📬 Let's Talk
+Got an interesting problem? Want to chat about code, automation, or why ancient philosophers were onto something?
 
 <div align="center">
 
-Got an interesting project? Want to discuss why async/await makes more sense than callbacks? Or maybe debate whether the Stoics would've been good programmers?
+[![GitHub](https://img.shields.io/github/followers/aashishkant?label=Follow&style=social)](https://github.com/aashishkant)
 
-**Hit me up:**
-
-[![GitHub followers](https://img.shields.io/github/followers/aashishkant?style=social)](https://github.com/aashishkant)
-[![GitHub stars](https://img.shields.io/github/stars/aashishkant?style=social)](https://github.com/aashishkant)
-
-*Always open to collaborations, interesting problems, and coffee chats about tech & philosophy*
+**Always open to interesting conversations and collaborations**
 
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
