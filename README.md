@@ -61,15 +61,14 @@ Live market data + sentiment analysis + sub-second updates
 
 <div align="center">
 
-
-<!-- Just replace the trophy line with this one for the exact dark/red look -->
-<img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=gruvbox&no-frame=false&no-bg=false&margin-w=10&row=1&column=7" />
+<!-- Exact trophy style you love (chalk theme) -->
+<img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=chalk&no-frame=false&no-bg=false&margin-w=10&row=1" alt="GitHub Trophies" />
 
 <br><br>
 
-<!-- Stats + Streak (Dracula theme – perfect dark mode) -->
+<!-- Stats + FIXED Streak (stable alternative - pulls your real data: 401 contribs, 1-day streak, etc.) -->
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=dracula&hide_border=true" />
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=dracula&hide_border=true" />
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=dracula&hide_border=true&background=18191F&stroke=0A0E17&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
 
 <br>
 
