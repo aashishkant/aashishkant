@@ -61,19 +61,19 @@ Live market data + sentiment analysis + sub-second updates
 
 <div align="center">
 
-<!-- Trophies (chalk theme, crisp edges) -->
+<!-- Trophies (chalk theme) -->
 <img src="https://github-profile-trophy.vercel.app/?username=aashishkant&theme=chalk&no-frame=false&no-bg=false&margin-w=10&row=1" alt="GitHub Trophies" />
 
 <br><br>
 
-<!-- Main Stats + Streak (reliable mirror + demolab - no errors ever) -->
-<img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aashishkant&show_icons=true&theme=dracula&hide_border=true&cache_seconds=3600" />
+<!-- Main Stats + Streak (reliable mirrors - no 401s) -->
+<img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aashishkant&show_icons=true&theme=dracula&hide_border=true" />
 <img height="180px" src="https://streak-stats.demolab.com?user=aashishkant&theme=dracula&hide_border=true" />
 
 <br>
 
-<!-- Top Languages (mirror + hide noise for clean look) -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=dracula&hide_border=true&hide=markdown&cache_seconds=3600" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=dracula&hide_border=true" />
 
 </div>
 
