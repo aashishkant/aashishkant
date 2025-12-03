@@ -1,103 +1,182 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Aashish+Kant" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Aashish+Kant+%F0%9F%91%8B;Software+Engineer;Automation+Enthusiast" alt="Typing SVG" />
   </h1>
-  <p><em>Building things that work. Breaking things that don't.</em></p>
 </div>
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  🇳🇵 Based in Nepal  |             ║
+║  🎯 Building reliable systems that scale                     ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge)](https://aashishkant.netlify.app)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/aashish-kant-b24537143)
-  [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:ashishkant7972@gmail.com)
-  
-</div>
-
-<br>
-
-## 👋 Hey there
-
-I'm a software engineer from Nepal who loves automation and making things reliable. Currently at **Leapfrog Technology**, building systems that don't break when users get creative.
-
-When I'm not debugging, you'll find me reading philosophy or playing drums. Turns out rhythm helps with code too.
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&labelColor=000000&color=0D1117&link=https://aashishkant.netlify.app)](https://aashishkant.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kant-b24537143)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishkant7972@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashishkant)
 
 </div>
 
+---
+
+### 🎯 About
+
+Software engineer passionate about **automation**, **testing**, and building systems that actually work. I believe good software isn't just about features—it's about reliability, performance, and user experience.
+
+Currently crafting robust applications and test frameworks. When I'm offline, you'll find me exploring philosophy or keeping rhythm behind a drum kit.
+
+---
+
+### 🛠️ Technology Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/cypress/cypress-icon.svg" width="48" height="48" alt="Cypress" />
+      <br>Cypress
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" height="48" alt="Selenium" />
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Featured Projects
+
+<details open>
+<summary><b>🔍 Mini SQL Engine</b> - Custom Database from Scratch</summary>
 <br>
 
-## 🚀 Projects
+Built a fully functional SQL query engine in Python without any external database libraries. Processes complex queries including JOINs, aggregations, and WHERE clauses.
 
-### 🔧 Mini SQL Engine
-Built a SQL database from scratch in Python. No external libraries—just data structures and algorithms. Handles JOINs, aggregations, and complex queries.
+**Tech:** Python • Data Structures • Algorithms  
+**Why it matters:** Deep dive into database internals, query optimization, and compiler design
 
-**Why?** Wanted to understand what happens under the hood when you run a query.
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/aashishkant/Mini-sql-engine)
 
-### 💹 Trading Platform
-Real-time market dashboard with sentiment analysis. Pulls live data and news to help traders make better decisions.
+</details>
 
-**The fun part:** Making it accurate when markets move every second.
-
+<details>
+<summary><b>📈 Real-Time Trading Platform</b> - Financial Intelligence Dashboard</summary>
 <br>
 
-## 📊 Stats
+Live trading dashboard with real-time market data integration, sentiment analysis from news sources, and interactive visualizations for portfolio management.
+
+**Tech:** Python • Streamlit • Machine Learning • API Integration  
+**Challenge:** Processing live data while maintaining accuracy during high market volatility
+
+**Features:**
+- Real-time stock tracking and analysis
+- Sentiment analysis engine
+- Interactive portfolio dashboards
+- Live news integration
+
+</details>
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aashishkant&theme=radical&hide_border=true)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aashishkant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aashishkant&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashishkant&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+</div>
+
+---
+
+### 🎓 Education & Learning
+
+**B.Sc. Computer Science** | Kalinga University (2022-2025) • GPA: 7.8
+
+**Certifications:**
+- 🎓 CS50x: Introduction to Computer Science - Harvard University
+- 🏆 Introduction to Software Testing - TestGrid University
+
+**Research:**
+- 📝 *Quantum Computing: Pioneering New Frontiers* - Published in Innovation and Integrative Research Center Journal (2025)
+
+---
+
+### 💡 Philosophy
+
+> *"We are what we repeatedly do. Excellence, then, is not an act, but a habit."* — Aristotle
+
+I approach software development with principles borrowed from ancient philosophy: focus on what you can control, automate the repetitive, and continuously improve. Every bug caught is a lesson learned.
+
+---
+
+### 🎯 Current Focus
+
+```python
+current_work = {
+    "role": "Software Engineer",
+    "building": ["Test automation frameworks", "Reliable systems", "CI/CD pipelines"],
+    "learning": ["Advanced testing patterns", "System design", "DevOps practices"],
+    "interests": ["Stoic philosophy", "Drumming", "Open source"]
+}
+```
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in discussing software architecture, automation strategies, or how ancient wisdom applies to modern engineering. Open to collaborations on interesting projects.
+
+<div align="center">
+
+[![GitHub Followers](https://img.shields.io/github/followers/aashishkant?style=social)](https://github.com/aashishkant)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashish-kant-b24537143)
+
+**📧 ashishkant7972@gmail.com**
 
 </div>
 
-<br>
-
-## 💭 What I Believe
-
-> *"We are what we repeatedly do."* - Aristotle
-
-- Ship working software
-- Automate repetitive stuff
-- Test like your users depend on it
-- Learn something new every day
-
-<br>
-
-## 🎯 Currently
-
-- Hunting bugs at Leapfrog Technology
-- Building test automation frameworks
-- Reading Stoic philosophy
-- Keeping the rhythm alive 🥁
-
-<br>
-
-## 📬 Let's Connect
-
-Got an interesting problem? Want to chat about code, automation, or why ancient philosophers were onto something?
+---
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/github/followers/aashishkant?label=Follow&style=social)](https://github.com/aashishkant)
-
-**Always open to interesting conversations and collaborations**
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
 </div>
